@@ -1,0 +1,23 @@
+{
+  "name": "appointments",
+  "version": "1.0.0",
+  "description": "Testing application appointments",
+  "homepage": "https://github.com/Bakhtiar-23/Test-Appointments#readme",
+  "bugs": {
+    "url": "https://github.com/Bakhtiar-23/Test-Appointments/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bakhtiar-23/Test-Appointments.git"
+  },
+  "license": "ISC",
+  "author": "Bakhtiar Ismail",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
